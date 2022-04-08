@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.212.31.226:8081/repository/ZELLE-RELEASE/</url>
+	      <url>http://3.92.189.137:8081/repository/BOA-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.212.31.226:8081/repository/ZELLE-SNAPSHOTS/</url>
+	      <url>http://3.92.189.137:8081/repository/BOA-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
